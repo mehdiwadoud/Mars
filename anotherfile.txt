@@ -1,0 +1,3 @@
+here we can make this world better but we should first try our best to handle all the problems related to this issue,
+one way is to work on every single line independentally and try to solve their owns problems
+let's commit theese changes and try angain 
