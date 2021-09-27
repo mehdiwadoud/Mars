@@ -1,3 +1,4 @@
 hello 
 now i'm working on another file
 conflict2
+conflict3
