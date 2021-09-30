@@ -7,3 +7,4 @@ fix all the bugs
 add more data to the store
 configure the store 
 update config.js
+Add The Final Line
