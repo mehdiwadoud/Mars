@@ -4,3 +4,6 @@ Add Specifications' lines as requested by the owner
 fix bugs and test code 
 fix more bugs and test code 
 fix all the bugs
+add more data to the store
+configure the store 
+update config.js
